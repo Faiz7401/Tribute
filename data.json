@@ -1,0 +1,148 @@
+{
+    "figures": [
+        {
+            "id": "tunku_abdul_rahman",
+            "wiki_link": "https://ms.wikipedia.org/wiki/Tunku_Abdul_Rahman",
+            "biography": {
+                "name": "Tunku Abdul Rahman",
+                "title": "Bapa Kemerdekaan",
+                "image": {
+                    "src": "https://relevan.com.my/wp-content/uploads/2023/08/29788111-768x480.jpeg",
+                    "alt": "Tunku Abdul Rahman delivering a speech on Malaysian independence.",
+                    "caption": "Tunku Abdul Rahman delivering a speech on Malaysian independence."
+                },
+                "timeline": [
+                    {
+                        "year": 1903,
+                        "event": "Born on February 8, in Alor Setar, Kedah, Malaysia, into the royal family of Kedah."
+                    },
+                    {
+                        "year": 1920,
+                        "event": "Attended Debsirin School in Bangkok and Penang Free School in Penang."
+                    },
+                    {
+                        "year": 1925,
+                        "event": "Moved to the United Kingdom to study law at St. Catherine's College, Cambridge."
+                    },
+                    {
+                        "year": 1928,
+                        "event": "Returned to Malaya after failing law exams; began work in the Kedah State Civil Service."
+                    },
+                    {
+                        "year": 1931,
+                        "event": "Appointed Assistant District Officer in Kulim, Kedah, and served in different regions."
+                    },
+                    {
+                        "year": 1938,
+                        "event": "Returned to Cambridge and successfully completed his law degree."
+                    },
+                    {
+                        "year": 1945,
+                        "event": "Joined UMNO and began advocating for Malaya's independence after WWII."
+                    },
+                    {
+                        "year": 1951,
+                        "event": "Elected UMNO president, advocating for independence from British rule."
+                    },
+                    {
+                        "year": 1955,
+                        "event": "Became Chief Minister and led negotiations for independence."
+                    },
+                    {
+                        "year": 1957,
+                        "event": "On August 31, led Malaya to independence, becoming the first Prime Minister."
+                    },
+                    {
+                        "year": 1960,
+                        "event": "Promoted ethnic integration and established Malaysia’s neutral foreign policy stance."
+                    },
+                    {
+                        "year": 1963,
+                        "event": "Formed the Federation of Malaysia, including Sabah, Sarawak, and Singapore."
+                    },
+                    {
+                        "year": 1969,
+                        "event": "Declared a state of emergency after the May 13 Incident, addressing ethnic tensions."
+                    },
+                    {
+                        "year": 1970,
+                        "event": "Stepped down as Prime Minister and continued to advocate for unity."
+                    },
+                    {
+                        "year": 1990,
+                        "event": "Passed away on December 6, remembered as Malaysia's 'Father of Independence'."
+                    }
+                ],
+                "quote": "We are all Malaysians. This is the bond that unites us. Let us always remember that unity is our fundamental strength as a people and as a nation."
+            }
+        },
+        {
+            "id": "abdul_razak",
+            "wiki_link": "https://ms.wikipedia.org/wiki/Abdul_Razak_Hussein",
+            "biography": {
+                "name": "Tun Abdul Razak",
+                "title": "Bapa Pembangunan",
+                "image": {
+                    "src": "https://www.perdana.org.my/wp-content/uploads/2019/08/Tun-Abdul-Razak-Dato-Hussein-1.jpg",
+                    "alt": "Tun Abdul Razak delivering a speech.",
+                    "caption": "Tun Abdul Razak during an event."
+                },
+                "timeline": [
+                    {
+                        "year": 1922,
+                        "event": "Born on March 11 in Pekan, Pahang, Malaysia."
+                    },
+                    {
+                        "year": 1940,
+                        "event": "Studied at Malay College Kuala Kangsar before pursuing law at the University of London."
+                    },
+                    {
+                        "year": 1949,
+                        "event": "Graduated from Lincoln’s Inn in London as a trained lawyer."
+                    },
+                    {
+                        "year": 1950,
+                        "event": "Joined the Malayan Civil Service and quickly rose in UMNO's ranks."
+                    },
+                    {
+                        "year": 1957,
+                        "event": "Appointed Deputy Prime Minister and Minister of Defense after independence."
+                    },
+                    {
+                        "year": 1960,
+                        "event": "Initiated the FELDA program to reduce poverty in rural areas."
+                    },
+                    {
+                        "year": 1969,
+                        "event": "Led the National Operations Council (NOC) to restore order following the May 13 Incident."
+                    },
+                    {
+                        "year": 1970,
+                        "event": "Became Malaysia's second Prime Minister and launched the New Economic Policy (NEP)."
+                    },
+                    {
+                        "year": 1971,
+                        "event": "Announced the National Education Policy to promote Malay as the national language."
+                    },
+                    {
+                        "year": 1972,
+                        "event": "Established diplomatic relations with China."
+                    },
+                    {
+                        "year": 1974,
+                        "event": "Launched the Green Book Program to increase food production and self-sufficiency."
+                    },
+                    {
+                        "year": 1975,
+                        "event": "Promoted Malaysia's role in the Non-Aligned Movement (NAM) and OIC."
+                    },
+                    {
+                        "year": 1976,
+                        "event": "Passed away on January 14 while receiving treatment in London."
+                    }
+                ],
+                "quote": "Development is essential for our nation’s future."
+            }
+        }
+    ]
+}

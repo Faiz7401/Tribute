@@ -90,6 +90,7 @@ ul {
 
 li {
     margin: 16px 0;
+    justify-content: space-evenly !important;
 }
 
 blockquote {
@@ -97,4 +98,71 @@ blockquote {
     max-width: 545px;
     margin: 0 auto 50px auto;
     text-align: left;
+}
+
+
+/* error 404 */
+.error {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.error-container {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.error-code {
+    font-size: 120px;
+    font-weight: bold;
+    color: #ff4d4d;
+}
+
+.error-message {
+    font-size: 20px;
+    color: #333;
+    margin: 10px 0;
+}
+
+.home-link {
+    font-size: 18px;
+    text-decoration: none;
+    color: #ff4d4d;
+    font-weight: bold;
+}
+
+.home-link:hover {
+    text-decoration: none;
+    color: #333;
+}
+
+a:visited{
+    color: #ff4d4d;
+}
+
+.error-messsage-1 {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #e74c3c;
+    margin-top: 20px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+code {
+    color: #2980b9;
+    background-color: #ecf0f1;
+    padding: 2px 5px;
+    border-radius: 4px;
 }
