@@ -13,10 +13,16 @@
         <h1 class="error-code">404</h1>
         <p class="error-message">Oops! The figure you are looking for doesn't exist.</p><br>
         <p class="error-messsage-1">
-            <span class="code-line">Try change your figure id in <code>persona.js:14</code></span>
+            <span class="code-line">Try changing your figure id in <code>persona.js:14</code></span>
         </p>
-        <a href="/" class="home-link">Go back to Home</a>
+        <a href="#" class="home-link" onclick="goHome()">Go back to Home</a>
     </div>
+
+    <script>
+        function goHome() {
+            window.location.href = 'loading.html';
+        }
+    </script>
 </body>
 
 </html>

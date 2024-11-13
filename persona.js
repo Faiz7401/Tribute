@@ -4,11 +4,12 @@ function getQueryParam(param) {
 }
 
 async function loadData() {
+
     try {
         const response = await fetch("data.json");
         const data = await response.json();
 
-        const figureId = getQueryParam("id") || "abdul_razak"; // Default id if not provided
+        const figureId = getQueryParam("id") || "2";
 
         const figure = data.figures.find(item => item.id === figureId);
 
@@ -16,7 +17,6 @@ async function loadData() {
             console.error("Figure not found");
             window.location.href = "error.html";
             return;
-
         }
 
         document.getElementById("title").innerText = figure.biography.name;

@@ -1,7 +1,7 @@
 {
     "figures": [
         {
-            "id": "tunku_abdul_rahman",
+            "id": "1",
             "wiki_link": "https://ms.wikipedia.org/wiki/Tunku_Abdul_Rahman",
             "biography": {
                 "name": "Tunku Abdul Rahman",
@@ -77,7 +77,7 @@
             }
         },
         {
-            "id": "abdul_razak",
+            "id": "2",
             "wiki_link": "https://ms.wikipedia.org/wiki/Abdul_Razak_Hussein",
             "biography": {
                 "name": "Tun Abdul Razak",
